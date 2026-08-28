@@ -7,7 +7,7 @@ I participated in the Science Olympiad and was awarded a Gold Medal.
 - **Award:** Gold Medal
 - **Competition:** Science Olympiad
 - **Organization:** SOF
-- **Year:** [2024]
+- **Year:** [2024-2025]
 - **Class:** [09]
 
 ### Skills & Learning
