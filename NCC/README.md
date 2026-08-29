@@ -1,4 +1,4 @@
-🪖 National Cadet Corps (NCC)
+🪖 **National Cadet Corps (NCC)**
 
 **Overview**
 
@@ -8,45 +8,45 @@ I was a member of the National Cadet Corps (NCC) and completed my NCC training, 
 
 **Detail	Information**
 
-**Rank:**	Corporal
+- **Rank:**	Corporal
 
-**Camp:**	ANNUAL TRAINING CAMP (ATC-2025)
+- **Camp:**	ANNUAL TRAINING CAMP (ATC-2025)
 
-**Duration:** 31 July 2025-09 August 2025
+- **Duration:** 31 July 2025-09 August 2025
 
-**Year:**	2025
+- **Year:**	2025
 
-**Unit:**	4 RAJ AIR NCC
+- **Unit:**	4 RAJ AIR NCC
 
 
 **Experience**
 
 
-**NCC Training & Completion**
+- **NCC Training & Completion**
 
 Successfully completed the required NCC training and received a certificate recognizing my participation and completion.
 
-**NCC Camp**
+- **NCC Camp**
 
 Participated in an NCC camp, gaining practical experience in teamwork, following structured routines, taking responsibility, and adapting to a new environment.
 The camp provided an opportunity to work collaboratively with fellow cadets and participate in organized activities while developing discipline and confidence.
 
 **Skills Developed**
 
-**Discipline & Responsibility:** Following schedules, instructions, and commitments.
+- **Discipline & Responsibility:** Following schedules, instructions, and commitments.
 
-**Teamwork:** Working collaboratively with fellow cadets during group activities.
+- **Teamwork:** Working collaboratively with fellow cadets during group activities.
 
-**Leadership:** Developing confidence in taking responsibility and contributing to team activities.
+- **Leadership:** Developing confidence in taking responsibility and contributing to team activities.
 
-**Communication:** Improving communication and coordination in a structured team environment.
+- **Communication:** Improving communication and coordination in a structured team environment.
 
-**Adaptability:** Learning to work effectively in a new and structured environment.
+- **Adaptability:** Learning to work effectively in a new and structured environment.
 
 **Certificates**
 
-NCC Completion Certificate
+- NCC Completion Certificate
 
-NCC Camp Certificate
+- NCC Camp Certificate
 
 
